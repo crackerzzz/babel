@@ -1,0 +1,336 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"requi",
+				"require"
+			],
+			[
+				"http",
+				"HttpModule\talias"
+			],
+			[
+				"Posli",
+				"PosListingService\talias"
+			],
+			[
+				"pos",
+				"PosServer\talias"
+			],
+			[
+				"po",
+				"pos-server\tscript"
+			],
+			[
+				"co",
+				"Component"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/js/app.js",
+			"settings":
+			{
+				"buffer_size": 27,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "console.log('hello world');"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "git:stat",
+		"selected_items":
+		[
+			[
+				"git:stat",
+				"Git: Status"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"h",
+				"HTMLPrettify"
+			],
+			[
+				"jsf",
+				"Nodejs::UglifyJS"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"intsll",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 484.0
+	},
+	"console":
+	{
+		"height": 358.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/reactjs/bable",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/reactjs/bable/app",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/reactjs/bable/app/js",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/reactjs/bable/dist"
+	],
+	"file_history":
+	[
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/reactjs/bable/package.json",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/reactjs/bable/webpack.config.js",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/reactjs/bable/.babelrc",
+		"/C/Users/shreejwal.shrestha/__mine__/softwares/Sublime Text Build 3126 x64/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/consul-configuration/src/app/pos-listing.service.ts",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/consul-configuration/src/app/pos-listing.service.spec.ts",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/consul-configuration/src/app/app.module.ts",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/consul-configuration/src/app/pos-server.ts",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/consul-configuration/src/app/pos-server.spec.ts",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/consul-configuration/karma.conf.js",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/consul-configuration/src/app/app.component.spec.ts",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/consul-configuration/src/app/app.component.html",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/consul-configuration/src/app/app.component.ts",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/consul-configuration/src/tsconfig.app.json",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/consul-configuration/.angular-cli.json",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/consul-configuration/src/environments/environment.ts",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/consul-configuration/src/environments/environment.prod.ts",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/angular-tour-of-heroes/src/app/heroes.component.html",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/angular-tour-of-heroes/src/app/heroes.component.ts",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/angular-tour-of-heroes/src/index.html",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/angular-tour-of-heroes/src/app/app.module.ts",
+		"/C/Users/SHREEJ~1.SHR/AppData/Local/Temp/7zE732.tmp/spring.schemas",
+		"/C/Users/SHREEJ~1.SHR/AppData/Local/Temp/7zE1862.tmp/spring.factories",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/angular-tour-of-heroes/src/app/app-routing.module.ts",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/angular-tour-of-heroes/src/app/dashboard.component.ts",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/angular-tour-of-heroes/src/app/hero-detail.component.ts",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/angular-tour-of-heroes/src/app/hero.service.ts",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/angular-tour-of-heroes/src/app/dashboard-component.html",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/angular-tour-of-heroes/src/app/hero-detail.component.html",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/angular-tour-of-heroes/src/app/app.component.ts",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/angular-tour-of-heroes/src/app/app.component.js",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/angular-tour-of-heroes/src/app/mock-heroes.tx",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/angular-tour-of-heroes/src/main.js",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/angular/angular-tour-of-heroes/src/app/hero.ts",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/git/spring-with-angular/src/main/resources/static/index.html",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/git/spring-with-angular/pom.xml",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/git/spring-with-angular/src/main/resources/static/js/hello.js",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/git/spring-with-angular/src/main/java/com/example/DemoApplication.java",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/git/spring-with-angular/src/wro/wro.properties",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/git/spring-with-angular/src/wro/wro.xml",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/git/spring-with-angular/src/wro/main.less",
+		"/C/Users/shreejwal.shrestha/__mine__/workspaces/node/first/test/unit/test.html",
+		"/C/Users/shreejwal.shrestha/__mine__/softwares/Sublime Text Build 3126 x64/Data/Packages/User/AngularJS-js-completions.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"string=",
+			"selectedHero"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"hero",
+			"selectedHero"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"auto_name": "console.log('hello world');",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 338.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 220.0
+	},
+	"pinned_build_system": "",
+	"project": "babel.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 616.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
